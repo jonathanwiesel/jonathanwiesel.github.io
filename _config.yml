@@ -74,3 +74,4 @@ theme: icarus
 deploy:
   type: git
   repo: https://github.com/jonathanwiesel/jonathanwiesel.github.io
+  branch: gh-pages
